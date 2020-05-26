@@ -1,9 +1,4 @@
 .RedText {
 color: red;
-}
-
-@import url('https://fonts.googleapis.com/css?family=Sacramento');
-
-.RedText {
-    font-family: 'Sacramento', cursive;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
