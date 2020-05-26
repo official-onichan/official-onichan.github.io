@@ -1,20 +1,24 @@
 .RedText {
-color: red;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-text-align: center;
-}
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    }
+    
+    body {
+        background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
+      }
+    
+     .c {
+    color: gray;
+    text-align: center;
+      }
+    
+      .warning{
+          color: white;
+          text-align: center;
+          font-family: sans-serif;
+      }
 
-body {
-    background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
-  }
-
- .c {
-color: gray;
-text-align: center;
-  }
-
-  .warning{
-      color: white;
-      text-align: center;
-      font-family: sans-serif;
-  }
+      a {
+        text-decoration: none;
+      }
