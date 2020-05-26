@@ -1,3 +1,9 @@
 .RedText {
 color: red;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+.redText {
+    font-family: 'Sacramento', cursive;
+}
