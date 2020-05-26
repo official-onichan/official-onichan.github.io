@@ -7,3 +7,14 @@ text-align: center;
 body {
     background: linear-gradient(-135deg, #E4A972, #9941D8) fixed;
   }
+
+ .c {
+color: gray;
+text-align: center;
+  }
+
+  .warning{
+      color: white;
+      text-align: center;
+      font-family: sans-serif;
+  }
