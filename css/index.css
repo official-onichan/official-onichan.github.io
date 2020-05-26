@@ -1,0 +1,44 @@
+
+
+body::-webkit-scrollbar {
+
+    width: 7px;
+  
+  }
+  
+  body::-webkit-scrollbar-thumb {
+  
+    background: linear-gradient(0deg,#43e2c6,#3183d0);
+  
+    border-radius: 3px;
+  
+  }
+  
+  body::-webkit-scrollbar-track {
+  
+    background: rgba(100,100,100, .5);
+  
+  }
+
+  #Bar {
+    list-style: none;
+    overflow: hidden;
+  }
+   
+  #Bar li {
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    background-color: #333;
+    float: left;
+  }
+   
+  #Bar li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  body {
+      background-color: #fff;
+  }
